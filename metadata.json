@@ -1,0 +1,5 @@
+{
+  "name": "Maritime Watch",
+  "description": "A real-time maritime disruption tracker for ocean freight, powered by Gemini Search Grounding. Visualize global shipping incidents, port strikes, and route blockages on an interactive map.",
+  "requestFramePermissions": []
+}
